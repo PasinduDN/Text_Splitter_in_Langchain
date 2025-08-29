@@ -1,0 +1,3 @@
+This is a simple text file created for demonstration purposes.
+It contains plain text and can be opened by any text editor.
+End of file.
